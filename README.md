@@ -1,0 +1,2 @@
+# QueensSolverPy
+QueensSolverPy
